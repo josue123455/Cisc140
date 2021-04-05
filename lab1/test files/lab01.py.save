@@ -1,0 +1,3 @@
+def randomize(pic):
+    new_picture = Picture(pic.widh
+
